@@ -11,6 +11,7 @@ public class Main {
 
 
         sayHello("Mimi");
+        System.out.println("Goodbey");
     }
 
     public static void sayHello(String name) {System.out.println("Hello" +name);}
